@@ -1,12 +1,12 @@
 # Skills
 
-## Below is _a list_ of my **technical skills**:
+Below is a _list_ of my **technical skills**:
 
-### Database programmer
+## Programming languages
 - SQL
-- Access
+- VBA
 
-### Collaboration
+## Collaboration
 - GitHub
 - Git
 
