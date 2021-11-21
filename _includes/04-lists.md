@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+# Skills
+
+## Below is _a list_ of my **technical skills**:
+
+### Database programmer
+- SQL
+- Access
+
+### Collaboration
+- GitHub
+- Git
